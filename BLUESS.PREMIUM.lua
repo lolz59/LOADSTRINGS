@@ -9,7 +9,7 @@
  > Made by bIue#2958
 
 -- Simplified script
- > loadstring(game:HttpGet("https://pastebin.com/raw/TXerSEU7"))()
+ > loadstring(game:HttpGet("https://pastebin.com/raw/1dpaWehw"))()
 
 -- Information
  > "BlueSS" is an SS executor, made in only one execution.
