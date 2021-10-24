@@ -21,7 +21,7 @@
 -- Usage
  > Get any executor (KRNL, Synapse X, etc.)
  > Execute this script in any game
- > Use it like any otner executor ]]
+ > Use it like any other executor ]]
 
 -- Customization
 Theme = Color3.fromRGB(255, 255, 255) -- Chooses the color theme for the UI (RGB)
