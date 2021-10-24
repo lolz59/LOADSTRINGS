@@ -8,8 +8,8 @@
 -- Credits
  > Made by bIue#2958
 
--- Links
- > Script: 
+-- Simplified script
+ > loadstring(game:HttpGet("https://pastebin.com/raw/TXerSEU7"))()
 
 -- Information
  > "BlueSS" is an SS executor, made in only one execution.
@@ -18,16 +18,14 @@
  
 -- Serverside
  > Serverside/SS means the script / exploit is visible to everyone in the server.
- > The serverside works from infecting a model inside the workspace.
- 
--- UI
+ > The serverside works from infecting a model inside the workspace
  > The UI only consists of a script workspace and an executor.
 
 -- Usage
  > Get any executor (KRNL, Synapse X, etc.)
  > Find the simplified script above
- > Execute the script in any game
- > Use it like any otner executor
+ > Execute this or the simplified script in any game
+ > Use it like any other executor
  
 -- Settings ]]
 
